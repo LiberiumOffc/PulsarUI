@@ -1,4 +1,4 @@
-local WindUI = {
+local PulsarUI = {
 	Window = nil,
 	Theme = nil,
 	Creator = require("./modules/Creator"),
