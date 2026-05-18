@@ -10,7 +10,7 @@
 <img src="docs/WindUI – Themes.png" alt="WindUI Banner">
 
 > [!WARNING]
-> This WindUI was not inspired by, and the name has nothing to do with UI Frameworks
+> This Pulsar UI was not inspired by, and the name has nothing to do with UI Frameworks
 
 > [!WARNING]
 > WindUI is currently in Beta.
@@ -28,10 +28,3 @@
 
 ### Links
 
-- [Discord Server](https://discord.gg/ftgs-development-hub-1300692552005189632)
-- [Documentation](https://Footagesus.github.io/WindUI-Docs/)
-- [Installation](https://footagesus.github.io/WindUI-Docs/docs/installation)
-- [Example](/main_example.lua) (wip)
-    ```luau
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/main_example.lua'))()
-    ```
